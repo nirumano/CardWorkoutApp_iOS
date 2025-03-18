@@ -1,3 +1,2 @@
-# iOS Swift UIKit Project
-## Workout Game App
-### This project uses Swift UIKit
+<b><u>iOS Swift UIKit Project</u></b>
+Workout Game App 
