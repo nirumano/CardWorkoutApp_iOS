@@ -1,2 +1,1 @@
-<b><u>iOS Swift UIKit Project</u></b>
-Workout Game App 
+iOS Swift UIKit Project - Workout Game App 
